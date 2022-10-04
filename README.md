@@ -1,4 +1,4 @@
-# FSFW
+# Flex Seal for Windows
 
 This is a tool for "sealing" systems by protecting them from digital attacks. I made this in the hopes of demystifying cybersecurity operations for beginners and simplifying the process for experienced users. As captain of my CyberPatriots team, my tool allowed us to efficiently solve problems and ultimately have a successful first year.
 
